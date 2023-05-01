@@ -14,5 +14,5 @@ on:
           uses: Tebu23/github-pages-deploy-action@4.1.4
           with:
           brach: gh-pages
-          folder: public
+          folder: .
   
